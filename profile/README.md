@@ -132,34 +132,208 @@ We combine modern software engineering, web and mobile development, cybersecurit
 
 ## 🧰 Our Technology Stack
 
-### Frontend & Mobile
+We use modern technologies and practical tools to build secure, scalable, maintainable, and production-ready digital solutions.
+
+### 💻 Frontend & Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,vite,figma" />
 </p>
 
-### Backend & APIs
+**Technologies & Tools**
+
+- React.js
+- Next.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
+- Vite
+- Responsive Web Design
+- UI/UX Design
+- SEO-Friendly Frontend Development
+
+---
+
+### 📱 Mobile App Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
-### DevOps & Development Tools
+**Technologies & Capabilities**
+
+- React Native
+- Expo
+- Cross-Platform Mobile Development
+- Android Applications
+- REST API Integration
+- Real-Time Features
+- Mobile UI Development
+- Production-Ready Application Architecture
+
+---
+
+### ⚙️ Backend, APIs & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,redis" />
 </p>
 
-### Cybersecurity & Security Tools
+**Technologies & Tools**
+
+- Node.js
+- Express.js
+- JavaScript
+- REST APIs
+- API Architecture
+- JWT Authentication
+- MongoDB
+- MySQL
+- PostgreSQL
+- Redis
+- Socket.IO
+- Backend Security
+- Database Design
+
+---
+
+### 🔌 API Development & Testing
 
 <p>
-
-Security-focused workflows and tools including:
-
-**Splunk • Wireshark • Nmap • Linux • Security Monitoring**
-
+  <img src="https://skillicons.dev/icons?i=postman" />
 </p>
 
+**Tools & Practices**
+
+- Postman
+- REST API Testing
+- API Documentation
+- Authentication Testing
+- Request & Response Validation
+- Integration Testing
+- Backend API Debugging
+
+---
+
+### 🧪 Testing & Quality Assurance
+
+<p>
+  <img src="https://skillicons.dev/icons?i=jest" />
+</p>
+
+**Testing Tools & Practices**
+
+- Jest
+- Playwright
+- Unit Testing
+- Integration Testing
+- End-to-End Testing
+- API Testing
+- Regression Testing
+- Quality Assurance
+- Test-Driven Development Practices
+
+---
+
+### ☁️ Cloud, Deployment & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,vercel" />
+</p>
+
+**Platforms & Tools**
+
+- Git
+- GitHub
+- GitHub Actions
+- Docker
+- Linux
+- Vercel
+- Render
+- Cloud Deployment
+- CI/CD Workflows
+- Environment Configuration
+- Production Deployment
+- Application Monitoring
+
+---
+
+### 🔐 Cybersecurity & Security Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+**Security-Focused Tools & Practices**
+
+- Nmap
+- Wireshark
+- Splunk
+- Linux Security
+- Network Security
+- Security Monitoring
+- Vulnerability Analysis
+- Security Assessment
+- Authentication Security
+- API Security
+- Security Best Practices
+- Secure Development Practices
+
+---
+
+### 📈 SEO & Digital Marketing
+
+**Digital Growth Services & Tools**
+
+- Search Engine Optimization (SEO)
+- Technical SEO
+- On-Page SEO
+- Local SEO
+- Google Business Profile Optimization
+- Keyword Research
+- Website Performance Optimization
+- Search Visibility Improvement
+- Social Media Marketing
+- Content Strategy
+- Digital Marketing Strategy
+- Business Growth Planning
+
+---
+
+### 🎨 Design & Product Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+**Tools & Capabilities**
+
+- Figma
+- UI/UX Design
+- Wireframing
+- Product Planning
+- User Experience Design
+- Responsive Interface Design
+- Design Systems
+- Business Website Design
+
+---
+
+### 🏗️ Engineering Approach
+
+Our technology choices are guided by practical business requirements rather than trends alone.
+
+We focus on:
+
+- 🔐 **Security by Design**
+- 📈 **Scalable Architecture**
+- ⚡ **Performance Optimization**
+- 🧩 **Maintainable Codebases**
+- 🧪 **Testing & Quality Assurance**
+- 🚀 **Production-Ready Deployment**
+- 🔄 **Continuous Improvement**
+- 🎯 **Real Business Value**
 ---
 
 ## 🌟 Our Work
